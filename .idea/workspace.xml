@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52ec1a25-8c80-4201-9c8f-56047d5d5b36" name="Changes" comment="full A*, Dijkstra, and first tabu_search version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Train_Pathfinder/Algorithms/A_star.py" beforeDir="false" afterPath="$PROJECT_DIR$/Train_Pathfinder/Algorithms/A_star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Train_Pathfinder/Algorithms/Tabu_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Train_Pathfinder/Algorithms/Tabu_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Train_Pathfinder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Train_Pathfinder/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3B7Q5OerKvU2qayy593JuIqQdnB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.A*.executor": "Run",
+    "Python.A_star.executor": "Run",
+    "Python.ConnectionsMap.executor": "Run",
+    "Python.Dijkstra.executor": "Run",
+    "Python.Tabu_search.executor": "Run",
+    "Python.Utils.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Train_Pathfinder" />
+      <recent name="$PROJECT_DIR$/Train_Pathfinder/Algorithms" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52ec1a25-8c80-4201-9c8f-56047d5d5b36" name="Changes" comment="" />
+      <created>1773837444973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773837444973</updated>
+      <workItem from="1773886351646" duration="11261000" />
+      <workItem from="1774257688778" duration="168000" />
+      <workItem from="1774257887180" duration="938000" />
+      <workItem from="1774281717382" duration="4135000" />
+      <workItem from="1774364069043" duration="35758000" />
+    </task>
+    <task id="LOCAL-00001" summary="full A*, Dijkstra, and first tabu_search version">
+      <option name="closed" value="true" />
+      <created>1774405336961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774405336961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="full A*, Dijkstra, and first tabu_search version" />
+    <option name="LAST_COMMIT_MESSAGE" value="full A*, Dijkstra, and first tabu_search version" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI_labs$Dijkstra.coverage" NAME="Dijkstra Coverage Results" MODIFIED="1774393476851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder/Algorithms" />
+    <SUITE FILE_PATH="coverage/AI_labs$test.coverage" NAME="test Coverage Results" MODIFIED="1773892501883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder" />
+    <SUITE FILE_PATH="coverage/AI_labs$main.coverage" NAME="main Coverage Results" MODIFIED="1774416270526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder" />
+    <SUITE FILE_PATH="coverage/AI_labs$Tabu_search.coverage" NAME="Tabu_search Coverage Results" MODIFIED="1774414326983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder/Algorithms" />
+    <SUITE FILE_PATH="coverage/AI_labs$ConnectionsMap.coverage" NAME="ConnectionsMap Coverage Results" MODIFIED="1773911797473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder" />
+    <SUITE FILE_PATH="coverage/AI_labs$A_.coverage" NAME="A* Coverage Results" MODIFIED="1774390528639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder/Algorithms" />
+    <SUITE FILE_PATH="coverage/AI_labs$A_star.coverage" NAME="A_star Coverage Results" MODIFIED="1774398918307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder/Algorithms" />
+    <SUITE FILE_PATH="coverage/AI_labs$Utils.coverage" NAME="Utils Coverage Results" MODIFIED="1774402626067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Train_Pathfinder" />
+  </component>
+</project>
